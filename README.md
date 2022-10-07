@@ -1,0 +1,9 @@
+前端基于adminlte
+<br/>
+中间件Tomcat
+<br/>
+后端SSM
+<br/>
+模块引擎JSP
+<br/>
+sql在lazya_ssm_web模块下的resource目录下
